@@ -15,6 +15,7 @@ To date we have developed or maintain a few libraries including:
 - [🔕 Symfony Fake SMS Notifier](https://github.com/YieldStudio/symfony-fake-sms-notifier): Provides fake SMS (as email during development) integration for Symfony Notifier.
 - [📍 Nova Google Autocomplete](https://github.com/YieldStudio/nova-google-autocomplete): Laravel Nova Phone Number (Maintened fork from [emilianotisato/nova-google-autocomplete-field](https://github.com/emilianotisato/nova-google-autocomplete-field))
 - [☎️ Nova Phone Field](https://github.com/YieldStudio/nova-phone-field): Laravel Nova Phone Number (Maintened fork from [bissolli/nova-phone-field](https://github.com/bissolli/nova-phone-field))
+- [🗺 Nova Google Polygon](https://github.com/YieldStudio/nova-google-polygon): Laravel Nova Google Polygon
 - [🔑 Laravel UUID](https://github.com/JamesHemery/laravel-uuid): Eloquent UUID Trait
 
 If you want to help us, you can contribute to these projects :)
