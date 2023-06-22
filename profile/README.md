@@ -10,6 +10,7 @@ We love open source and want to contribute more and more.
 
 To date we have developed or maintain a few libraries including:
 
+- [🪄 Tailwind Merge PHP](https://github.com/YieldStudio/tailwind-merge-php): Merge multiple Tailwind CSS classes and automatically resolves conflicts between them without headaches !
 - [🔐 Eloquent Public ID](https://github.com/YieldStudio/eloquent-public-id): Eloquent Public ID Trait
 - [🛎 Laravel Mailjet Notifier](https://github.com/YieldStudio/laravel-mailjet-notifier): Easily send Mailjet transactional email and sms with Laravel notifier.
 - [📲 Laravel Expo Notifier](https://github.com/YieldStudio/laravel-expo-notifier): Easily send Expo push notifications with Laravel. Support of batched notifications.
