@@ -14,7 +14,7 @@ To date we have developed or maintain a few libraries including:
 - [🔐 Eloquent Public ID](https://github.com/YieldStudio/eloquent-public-id): Eloquent Public ID Trait
 - [🛎 Laravel Mailjet Notifier](https://github.com/YieldStudio/laravel-mailjet-notifier): Easily send Mailjet transactional email and sms with Laravel notifier.
 - [📲 Laravel Expo Notifier](https://github.com/YieldStudio/laravel-expo-notifier): Easily send Expo push notifications with Laravel. Support of batched notifications.
-- [🔹 Laravel Sendinblue Notifier](https://github.com/YieldStudio/laravel-sendinblue-notifier): Easily send Sendinblue transactional email and sms with Laravel notifier.
+- [🔹 Laravel Brevo Notifier](https://github.com/YieldStudio/laravel-brevo-notifier): Easily send Brevo transactional email and sms with Laravel notifier.
 - [🔕 Symfony Fake SMS Notifier](https://github.com/YieldStudio/symfony-fake-sms-notifier): Provides fake SMS (as email during development) integration for Symfony Notifier.
 - [📍 Nova Google Autocomplete](https://github.com/YieldStudio/nova-google-autocomplete): Laravel Nova Phone Number (Maintened fork from [emilianotisato/nova-google-autocomplete-field](https://github.com/emilianotisato/nova-google-autocomplete-field))
 - [☎️ Nova Phone Field](https://github.com/YieldStudio/nova-phone-field): Laravel Nova Phone Number (Maintened fork from [bissolli/nova-phone-field](https://github.com/bissolli/nova-phone-field))
