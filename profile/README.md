@@ -1,4 +1,8 @@
-<p align="center"><a href="https://yieldstudio.fr" target="_blank"><img alt="Yield Studio" src="https://github.com/YieldStudio/.github/blob/main/assets/images/logo.png" width="400"></a></p>
+<p align="center">
+  <a href="https://yieldstudio.fr" target="_blank">
+    <img src="https://github.com/YieldStudio/.github/blob/main/assets/banner.png" alt="Banner" style="width: 100%; max-width: 800px;" />
+  </a>
+</p>
 
 ## About Yield Studio
 
