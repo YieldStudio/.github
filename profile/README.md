@@ -6,9 +6,19 @@
 
 ## About Yield Studio
 
-[Yield Studio](https://yieldstudio.fr) is specialised in application design and development. We accompany startups from their MVP to their scale-up phase.
+At [Yield Studio](https://yieldstudio.fr), we help companies become more productive and identify levers for growth.
 
-Our mission is to take the code out of mere technical execution and add a coaching and consulting dimension to it, making it a business accelerator.
+Tired of working on projects with no real impact, it was in 2019 that James and Cyrille created Yield Studio. 
+Their goal ? Use tech to create innovations that bring value to the end-user and the business.
+
+Our business: design and develop web & mobile applications.
+
+The keys to our success :
+
+- We identify killer features for end-users through an approach based on both Discovery and Delivery.
+- We write high quality code from the start, so that we can go faster afterwards, thanks to our in-house and senior experts.
+- We don't waste time on low value-added tasks, thanks to our in-house Lab, which provides our experts with powerful tools.
+- A partnership more than a service... People first 💙
 
 ## Packages
 We have developed a number of packages for different languages and tools such as Expo, Laravel, Symfony and many more to come.
