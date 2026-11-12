@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://yieldstudio.fr" target="_blank">
+  <a href="https://yield.fr" target="_blank">
     <img src="https://github.com/YieldStudio/.github/blob/main/assets/banner.png" alt="Banner" style="width: 100%; max-width: 800px;" />
   </a>
 </p>
 
-## About Yield Studio
+## About Yield
 
-At [Yield Studio](https://yieldstudio.fr), we help companies become more productive and identify levers for growth.
+At [Yield](https://yield.fr), we help companies become more productive and identify levers for growth.
 
-Tired of working on projects with no real impact, it was in 2019 that James and Cyrille created Yield Studio. 
+Tired of working on projects with no real impact, it was in 2019 that James created Yield. 
 Their goal ? Use tech to create innovations that bring value to the end-user and the business.
 
 Our business: design and develop web & mobile applications.
